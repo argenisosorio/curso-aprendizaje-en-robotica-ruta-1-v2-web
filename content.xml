@@ -32,7 +32,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_author</key>
-    <value>Centro de Desarrollo e Investigación en Teconologías Libres (CENDITEL), Dra. Yazmary Rondón, MSc. Jimena Pérez, Dra. María Eugenia Acosta, Ing. Enderberth Nieves, Ing. Argenis Osorio, MSc. Carlos González, MSc. Dianicth Monsalve, MSc. Jesús Erazo, Ing. Alfredo Guardia, Arq. Gabriel Martínez, Lcdo. Miguel Albornoz.y TSU. Oriana Albornoz.</value>
+    <value>Centro de Desarrollo e Investigación en Tecnologías Libres (CENDITEL), Dra. Yazmary Rondón, MSc. Jimena Pérez, Dra. María Eugenia Acosta, Ing. Enderberth Nieves, Ing. Argenis Osorio, MSc. Carlos González, MSc. Dianicth Monsalve, MSc. Jesús Erazo, Ing. Alfredo Guardia, Arq. Gabriel Martínez, Lcdo. Miguel Albornoz.y TSU. Oriana Albornoz.</value>
   </odeProperty>
   <odeProperty>
     <key>pp_description</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1791893666551</value>
+    <value>1791896855141</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -68,7 +68,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_addPagination</key>
-    <value>false</value>
+    <value>true</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addSearchBox</key>
@@ -76,7 +76,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_addAccessibilityToolbar</key>
-    <value>false</value>
+    <value>true</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addMathJax</key>
@@ -2478,7 +2478,7 @@
     <odePagStructure>
       <odePageId>page-mu1e8ynf-e5vn39thm</odePageId>
       <odeBlockId>block-mu1eye66-35fffvxib</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName></blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
